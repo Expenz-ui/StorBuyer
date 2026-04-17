@@ -1,0 +1,106 @@
+{
+  "users": {},
+  "botTokens": {},
+  "buyerRequests": {},
+  "buyerInvites": {},
+  "reports": [],
+  "roleCatalog": {
+    "full_up": {
+      "label": "FULL UP",
+      "quota": 1,
+      "groups": [
+        {
+          "name": "FULLUP - Full Up otax",
+          "chatId": -1003906957743
+        }
+      ]
+    },
+    "reseller": {
+      "label": "RESSELER",
+      "quota": 3,
+      "groups": [
+        {
+          "name": "FULLUP - Full Up otax",
+          "chatId": -1003906957743
+        },
+        {
+          "name": "RESELLER - Reseller otax",
+          "chatId": -1003906957743
+        }
+      ]
+    },
+    "partner": {
+      "label": "PARTNER",
+      "quota": 4,
+      "groups": [
+        {
+          "name": "FULLUP - Full Up otax",
+          "chatId": -1003906957743
+        },
+        {
+          "name": "RESELLER - Reseller otax",
+          "chatId": -1003906957743
+        },
+        {
+          "name": "PT - Partner otax",
+          "chatId": -1003717897662
+        }
+      ]
+    },
+    "tk": {
+      "label": "TANGAN KANAN",
+      "quota": 5,
+      "groups": [
+        {
+          "name": "FULLUP - Full Up otax",
+          "chatId": -1003847993974
+        },
+        {
+          "name": "RESELLER - Reseller otax",
+          "chatId": -1003849985175
+        },
+        {
+          "name": "PT - Partner otax",
+          "chatId": -1003717897662
+        },
+        {
+          "name": "TK - Tangan Kanan otax",
+          "chatId": -1003737982886
+        }
+      ]
+    },
+    "owner": {
+      "label": "OWNER",
+      "quota": 8,
+      "groups": [
+        {
+          "name": "FULLUP - Full Up otax",
+          "chatId": -1003847993974
+        },
+        {
+          "name": "RESELLER - Reseller otax",
+          "chatId": -1003849985175
+        },
+        {
+          "name": "PT - Partner otax",
+          "chatId": -1003717897662
+        },
+        {
+          "name": "TK - Tangan Kanan otax",
+          "chatId": -1003737982886
+        },
+        {
+          "name": "OWNER - Owner otax",
+          "chatId": -1003885933221
+        }
+      ]
+    }
+  },
+  "meta": {
+    "createdAt": "2026-04-17T17:01:50.242Z",
+    "updatedAt": "2026-04-17T17:01:50.242Z",
+    "autoInitialized": true,
+    "repo": "Expenz-ui/StorBuyer",
+    "dbPath": "database/db.json"
+  }
+}
