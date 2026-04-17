@@ -8,12 +8,24 @@
       "createdAt": "2026-04-17T17:01:51.203Z",
       "role": "owner",
       "tokenQuota": 8,
-      "tokensUsed": 0,
-      "tokensAvailable": 8,
-      "updatedAt": "2026-04-17T17:02:30.671Z"
+      "tokensUsed": 1,
+      "tokensAvailable": 7,
+      "updatedAt": "2026-04-17T17:02:31.872Z"
     }
   },
-  "botTokens": {},
+  "botTokens": {
+    "tok_1776445351871_ufb1yh": {
+      "id": "tok_1776445351871_ufb1yh",
+      "token": "8240226615:AAF3qA2escdjv17AzKJrLHKbRdXN-6iCCfU",
+      "ownerId": 8082127437,
+      "ownerUsername": "Expenzx",
+      "ownerRole": "owner",
+      "status": "active",
+      "createdAt": "2026-04-17T17:02:31.872Z",
+      "updatedAt": "2026-04-17T17:02:31.872Z",
+      "reportCount": 0
+    }
+  },
   "buyerRequests": {},
   "buyerInvites": {},
   "reports": [],
@@ -111,7 +123,7 @@
   },
   "meta": {
     "createdAt": "2026-04-17T17:01:50.242Z",
-    "updatedAt": "2026-04-17T17:02:30.671Z",
+    "updatedAt": "2026-04-17T17:02:31.872Z",
     "autoInitialized": true,
     "repo": "Expenz-ui/StorBuyer",
     "dbPath": "database/db.json"
