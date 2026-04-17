@@ -66,9 +66,13 @@
       "requestedPeriod": "permanent",
       "photoFileId": "AgACAgUAAxkBAAMWaeJoWPaq1F7uvnic3eiO9iD9jvEAAq4RaxswXAhXVIgnwVl0jUABAAMCAAN5AAM7BA",
       "caption": "",
-      "status": "pending",
+      "status": "approved",
       "createdAt": "2026-04-17T17:06:12.701Z",
-      "updatedAt": "2026-04-17T17:06:12.701Z"
+      "updatedAt": "2026-04-17T17:06:19.508Z",
+      "approvedBy": 8082127437,
+      "approvedByUsername": "Expenzx",
+      "finalPeriod": "permanent",
+      "expiresAt": null
     }
   },
   "buyerInvites": {},
@@ -167,7 +171,7 @@
   },
   "meta": {
     "createdAt": "2026-04-17T17:01:50.242Z",
-    "updatedAt": "2026-04-17T17:06:12.701Z",
+    "updatedAt": "2026-04-17T17:06:19.508Z",
     "autoInitialized": true,
     "repo": "Expenz-ui/StorBuyer",
     "dbPath": "database/db.json"
