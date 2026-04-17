@@ -26,7 +26,21 @@
       "reportCount": 0
     }
   },
-  "buyerRequests": {},
+  "buyerRequests": {
+    "1776445389237": {
+      "id": "1776445389237",
+      "requesterId": 8082127437,
+      "requesterUsername": "Expenzx",
+      "role": "partner",
+      "buyerUsername": "Expenzx",
+      "requestedPeriod": "permanent",
+      "photoFileId": "AgACAgUAAxkBAAMJaeJnvOfyDptPmNsh9HNpPdO5_EoAAtwRaxtC4BhXP4jFlXVElVMBAAMCAAN5AAM7BA",
+      "caption": "",
+      "status": "pending",
+      "createdAt": "2026-04-17T17:03:09.549Z",
+      "updatedAt": "2026-04-17T17:03:09.549Z"
+    }
+  },
   "buyerInvites": {},
   "reports": [],
   "roleCatalog": {
@@ -123,7 +137,7 @@
   },
   "meta": {
     "createdAt": "2026-04-17T17:01:50.242Z",
-    "updatedAt": "2026-04-17T17:03:08.349Z",
+    "updatedAt": "2026-04-17T17:03:09.549Z",
     "autoInitialized": true,
     "repo": "Expenz-ui/StorBuyer",
     "dbPath": "database/db.json"
