@@ -1,5 +1,17 @@
 {
   "users": {
+    "1402049962": {
+      "id": 1402049962,
+      "firstName": "<.ᴋ4ʀᴢ!`ᴇᴛʜᴇʀ/>",
+      "lastName": "",
+      "username": "Dx_karzItshere5",
+      "role": null,
+      "tokenQuota": 0,
+      "tokensUsed": 0,
+      "tokensAvailable": 0,
+      "createdAt": "2026-04-17T18:06:58.034Z",
+      "updatedAt": "2026-04-17T18:06:58.036Z"
+    },
     "8082127437": {
       "id": 8082127437,
       "firstName": "⌥𝐀𝐄 /<𝙀́𝙭𝙥𝙚𝙣̃𝙄𝙨𝙃𝙚𝙧𝙚>♞",
@@ -183,7 +195,7 @@
   },
   "meta": {
     "createdAt": "2026-04-17T17:01:50.242Z",
-    "updatedAt": "2026-04-17T17:44:21.661Z",
+    "updatedAt": "2026-04-17T18:06:58.036Z",
     "autoInitialized": true,
     "repo": "Expenz-ui/StorBuyer",
     "dbPath": "database/db.json"
