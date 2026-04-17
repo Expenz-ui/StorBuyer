@@ -1,5 +1,18 @@
 {
-  "users": {},
+  "users": {
+    "8082127437": {
+      "id": 8082127437,
+      "firstName": "",
+      "lastName": "",
+      "username": "",
+      "createdAt": "2026-04-17T17:01:51.203Z",
+      "role": "owner",
+      "tokenQuota": 8,
+      "tokensUsed": 0,
+      "tokensAvailable": 8,
+      "updatedAt": "2026-04-17T17:01:51.203Z"
+    }
+  },
   "botTokens": {},
   "buyerRequests": {},
   "buyerInvites": {},
@@ -98,7 +111,7 @@
   },
   "meta": {
     "createdAt": "2026-04-17T17:01:50.242Z",
-    "updatedAt": "2026-04-17T17:01:50.242Z",
+    "updatedAt": "2026-04-17T17:01:51.203Z",
     "autoInitialized": true,
     "repo": "Expenz-ui/StorBuyer",
     "dbPath": "database/db.json"
