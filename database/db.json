@@ -2,15 +2,15 @@
   "users": {
     "8082127437": {
       "id": 8082127437,
-      "firstName": "",
+      "firstName": "⌥𝐀𝐄 /<𝙀́𝙭𝙥𝙚𝙣̃𝙄𝙨𝙃𝙚𝙧𝙚>♞",
       "lastName": "",
-      "username": "",
+      "username": "Expenzx",
       "createdAt": "2026-04-17T17:01:51.203Z",
       "role": "owner",
       "tokenQuota": 8,
       "tokensUsed": 0,
       "tokensAvailable": 8,
-      "updatedAt": "2026-04-17T17:01:51.203Z"
+      "updatedAt": "2026-04-17T17:02:02.188Z"
     }
   },
   "botTokens": {},
@@ -111,7 +111,7 @@
   },
   "meta": {
     "createdAt": "2026-04-17T17:01:50.242Z",
-    "updatedAt": "2026-04-17T17:01:51.203Z",
+    "updatedAt": "2026-04-17T17:02:02.188Z",
     "autoInitialized": true,
     "repo": "Expenz-ui/StorBuyer",
     "dbPath": "database/db.json"
